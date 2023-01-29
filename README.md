@@ -1,5 +1,5 @@
 # This is to learn how to work with git and some bash commands
-1. How to move in a directory which is having two words?
+1. How to move in a directory which is having two words?<br>
 Solution: use quotes or "/" symbol
 _cd "Program Files"_
 or
