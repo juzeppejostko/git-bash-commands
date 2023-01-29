@@ -28,7 +28,15 @@ To run ".sh" file use next commands:<br>
 _chmod u+x hello.sh_<br>
 _./hello.sh_<br>
 <br>
-///Every time to update current branch we use next commands:<br>
+11. Every time to update current branch we use next commands:<br>
 _git add ._ # to update all files<br>
 _git commit -m "What was changed"_<br>
 _git push -u origin branchname_///<br>
+
+12. Bash logical operators:<br>
+'Equal' is -eq<br>
+'Not equal' is -ne<br>
+'Less then' is -lt<br>
+'Less then or equal' is -le<br>
+'Greater then' is -gt<br>
+'Greater then or equal' is -ge<br>
