@@ -27,3 +27,8 @@ _git push -u origin HEAD_ if you are in target branch<br>
 To run ".sh" file use next commands:<br>
 _chmod u+x hello.sh_<br>
 _./hello.sh_<br>
+<br>
+///Every time to update current branch we use next commands:<br>
+_git add ._ # to update all files
+_git commit -m "What was changed"_
+_git push -u origin branchname_<br>///
