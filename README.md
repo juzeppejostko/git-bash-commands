@@ -29,6 +29,6 @@ _chmod u+x hello.sh_<br>
 _./hello.sh_<br>
 <br>
 ///Every time to update current branch we use next commands:<br>
-_git add ._ # to update all files
-_git commit -m "What was changed"_
-_git push -u origin branchname_<br>///
+_git add ._ # to update all files<br>
+_git commit -m "What was changed"_<br>
+_git push -u origin branchname_///<br>
