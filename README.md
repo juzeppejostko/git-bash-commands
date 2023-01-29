@@ -11,4 +11,4 @@ _git init_
 4. Adding file to repository
 _git add README.md_
 5. Associating the repository on a remote server with the repository in this folder:
-_git remote add origin https://github.com/**address**_
+_git remote add origin https://github.com/ **address** _
