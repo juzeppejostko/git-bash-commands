@@ -12,3 +12,11 @@ _git init_
 _git add README.md_
 5. Associating the repository on a remote server with the repository in this folder:
 _git remote add origin_ _https://github.com/**address_
+6. To create new branch with the name "bash" use:
+_git branch bash_
+7. Switch to this new branch:
+_git checkout bash_
+8. Push new branch:
+_git push -u origin branchname_
+or
+_git push -u origin HEAD_ if you are in target branch
