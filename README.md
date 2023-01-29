@@ -20,3 +20,7 @@ _git checkout bash_
 _git push -u origin branchname_
 or
 _git push -u origin HEAD_ if you are in target branch
+9. Run bash scripts
+To run ".sh" file use next commands:
+_chmod u+x hello.sh_
+_./hello.sh_
