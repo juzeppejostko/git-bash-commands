@@ -39,8 +39,8 @@ _git push -u origin branchname_///<br>
 'Greater then' is -gt<br>
 'Greater then or equal' is -ge<br>
 13. How to reset a previous/specific commit:<br>
-I. Copy SHA code of target commit<b>
-II. git reset --hard 56e05fced #where 56e05fced is your sha<br>
-III. git commit -m "Revert to 56e05fced"<br>
+I. Copy SHA code of target commit <br>
+II. git reset --hard 56e05fced #where 56e05fced is your sha <br>
+III. git commit -m "Revert to 56e05fced" <br>
 14. Rename files in bash:<br>
 _mv [options] source_file destination_file_ <br>
