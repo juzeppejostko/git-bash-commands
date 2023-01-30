@@ -38,7 +38,7 @@ _git push -u origin branchname_///<br>
 'Less then or equal' is -le<br>
 'Greater then' is -gt<br>
 'Greater then or equal' is -ge<br>
-13. How to reset a previous/specific commit:<br>
+13. How to reset to a previous/specific commit:<br>
 I. Copy SHA code of target commit <br>
 II. git reset --hard 56e05fced #where 56e05fced is your sha <br>
 III. git commit -m "Revert to 56e05fced" <br>
