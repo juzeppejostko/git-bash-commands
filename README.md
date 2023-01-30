@@ -44,3 +44,10 @@ II. git reset --hard 56e05fced #where 56e05fced is your sha <br>
 III. git commit -m "Revert to 56e05fced" <br>
 14. Rename files in bash:<br>
 _mv [options] source_file destination_file_ <br>
+15. Standard git workflow:<br>
+_git pull_<br>
+_git branch_<br>
+_git checkout <branch>_<br>
+_git add file_ | _git add ._<br>
+_git commit -m "comment"_<br>
+git push -u origin <branchname> | git push -u origin HEAD_
