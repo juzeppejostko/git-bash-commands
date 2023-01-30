@@ -50,4 +50,4 @@ _git branch_<br>
 _git checkout <branch>_<br>
 _git add file_ | _git add ._<br>
 _git commit -m "comment"_<br>
-git push -u origin <branchname> | git push -u origin HEAD_
+_git push -u origin <branchname>_ | _git push -u origin HEAD_
