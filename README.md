@@ -62,6 +62,5 @@ _git push origin master_<br>
 18. How to Delete a Git Branch Both Locally and Remotely<br>
 _// delete branch locally_<br>
 _git branch -d localBranchName_<br>
-<br>
 _// delete branch remotely_<br>
 _git push origin --delete remoteBranchName_<br>
