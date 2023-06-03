@@ -54,4 +54,14 @@ _git branch_<br>
 _git checkout <branch>_<br>
 _git add file_ | _git add ._<br>
 _git commit -m "comment"_<br>
-_git push -u origin <branchname>_ | _git push -u origin HEAD_
+_git push -u origin <branchname>_ | _git push -u origin HEAD_<br>
+17. Merge branch into master:<br>
+_git pull origin master_<br>
+_git merge test_<br>
+_git push origin master_<br>
+18. How to Delete a Git Branch Both Locally and Remotely<br>
+_// delete branch locally_<br>
+_git branch -d localBranchName_<br>
+<br>
+_// delete branch remotely_<br>
+_git push origin --delete remoteBranchName_<br>
