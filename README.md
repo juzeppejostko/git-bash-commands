@@ -64,3 +64,7 @@ _// delete branch locally_<br>
 _git branch -d localBranchName_<br>
 _// delete branch remotely_<br>
 _git push origin --delete remoteBranchName_<br>
+19. How to cancel all chenges in current commit:<br>
+    _git reset_<br>
+    _git checkout ._<br>
+    _git clean -fdx_<br>
