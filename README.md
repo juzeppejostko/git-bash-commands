@@ -1,4 +1,4 @@
-# This is to learn how to work with git and some bash commands
+# Here are some basic bash and git commands
 1. How can we move to a directory which consists of two and more words?<br>
 Solution: use quotes or "/" symbol<br>
 _cd "Program Files"_<br>
